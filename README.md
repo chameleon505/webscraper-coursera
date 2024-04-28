@@ -12,3 +12,11 @@ python script.py -t "Python"        # Search courses by title
 python script.py -l "Intermediate"  # Search courses by level
 python script.py -r 4.5             # Search courses by rating
 If no options are provided, the script will automatically generate a CSV file named coursera.csv containing all course information.
+
+## Dependencies
+
+
+Python 3.9+
+BeautifulSoup4
+Requests
+Pandas
