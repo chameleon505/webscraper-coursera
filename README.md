@@ -16,7 +16,7 @@ python script.py -r 4.5             # Search courses by rating
 ## Dependencies
 
 
-Python 3.9+
-BeautifulSoup4
-Requests
-Pandas
+- Python 3.9+
+- BeautifulSoup4
+- Requests
+- Pandas
